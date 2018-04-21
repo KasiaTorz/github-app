@@ -1,6 +1,7 @@
 import React,{Component} from 'react';
+
 import {Container} from './footer.style';
-import {Wrapper} from "../utils/styles/global.style";
+import {Wrapper} from '../../utils/styles/global.style';
 
 
 class Footer extends Component{
